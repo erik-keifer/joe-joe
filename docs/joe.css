@@ -140,3 +140,41 @@ a {
     display: none;
   }
 }
+
+
+
+@media only screen and (min-width:350px) and (max-width: 360px) {
+
+.navicon { top:-60px; }
+
+
+}
+@media only screen and (min-width:250px) and (max-width: 280px) {
+
+.logo {position: relative; right: 7%;}
+
+
+
+
+
+}
+
+
+@media only screen and (min-width:360px) and (max-width: 360px) {
+
+.header { margin-bottom: 20px; }
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
